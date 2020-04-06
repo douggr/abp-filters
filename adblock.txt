@@ -1,0 +1,36 @@
+[Adblock Plus 3.0]
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/douggr/abp-filters
+! Title: douggr's abp filters
+! Updated: 2020-03-25
+
+instagram.com##body:style(overflow: visible !important;)
+instagram.com##div[role="presentation"]
+
+youtube.com##div#continuations
+youtube.com##ytd-comments
+
+! bastian.globo.com
+! globo-ab.globo.com
+! horizon-track.globo.com
+! interatividade.globo.com
+! recomendacao.globo.com
+||comentarios.globo.com
+||vitrines.globo.com
+
+||getblue.io
+||googletagmanager.com
+||hs-scripts.com
+||hsadspixel.net
+||hsforms.net
+||intercom.io
+||newrelic.com
+||playwire.com
+||reclameaqui.com.br
+||siteblindado.com
+||taboola.com
+||tiqcdn.com
+||wootric.com
+||youtube.com$xmlhttprequest
+||zdassets.com
+||zendesk.com
